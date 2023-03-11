@@ -29,7 +29,7 @@ phpunit.phar
 tests/_output/*
 tests/_support/_generated
 
-.env
+.env      
 .docker/data
 .docker/dumps
 .php_cs.cache
