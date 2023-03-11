@@ -6,7 +6,7 @@
  * php requirements.php
  *
  * In order to run this script from the web, you should copy it to the web root.    
- * If you are using Linux you can create a hard link instead, using the following command:
+ * If you are using Linux you can create a hard link instead, using the following command:    
  * ln ../requirements.php requirements.php
  */     
 
