@@ -37,7 +37,7 @@
             "require": {
                 "bower-asset/jquery": ">=1.7"
             },
-            "type": "bower-asset",
+            "type": "bower-asset",    
             "license": [
                 "http://opensource.org/licenses/mit-license.php"
             ]
