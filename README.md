@@ -4,7 +4,7 @@
     </a>
     <h1 align="center">Yii 2 Skeleton</h1>
     <br>
-</p>
+</p>    
 
 Yii 2 Skeleton is a new approach to a design skeleton using [Yii 2](http://www.yiiframework.com/) as a basis.
 
