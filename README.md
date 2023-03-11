@@ -24,7 +24,7 @@ RESOURCES
 - PHP Codesniffer 3.5
 - PHP Codesniffer Fixer 3
 
-INSTALLATION
+INSTALLATION  
 ------------
 
 ### Install via Composer
