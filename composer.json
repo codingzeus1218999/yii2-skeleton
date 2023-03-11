@@ -3,7 +3,7 @@
     "description": "A new approach for yii2 basic template",
     "keywords": ["yii2", "yii2 skeleton", "yii2-template", "template"],
     "homepage": "http://www.yiiacademy.com.br",
-    "type": "project",
+    "type": "project",   
     "license": "BSD-3-Clause",
     "minimum-stability": "stable",
     "scripts": {
