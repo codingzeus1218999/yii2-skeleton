@@ -2,7 +2,7 @@
 /**
  * Application requirement checker script.         
  *
- * In order to run this script use the following console command:   
+ * In order to run this script use the following console command:           
  * php requirements.php
  *
  * In order to run this script from the web, you should copy it to the web root.    
