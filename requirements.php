@@ -24,7 +24,7 @@ if (!isset($frameworkPath)) {
         if (is_dir($path)) {
             $frameworkPath = $path;
             break;
-        }
+        }  
     }
 }
 
